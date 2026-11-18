@@ -1,2 +1,2 @@
 # RetailStore
-App for retails store operation with inventory monitoring for =&lt;500 kinds of items.
+App for retails store operation with inventory monitoring for =&lt;2,000 kinds of items.
