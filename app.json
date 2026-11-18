@@ -1,0 +1,20 @@
+{
+  "expo": {
+    "name": "Aling Nena POS",
+    "slug": "aling-nena-pos",
+    "version": "1.0.0",
+    "orientation": "portrait",
+    "userInterfaceStyle": "light",
+    "android": {
+      "package": "com.alingnena.pos"
+    },
+    "plugins": [
+      [
+        "expo-camera",
+        {
+          "cameraPermission": "Allow Aling Nena POS to scan product barcodes and QR codes."
+        }
+      ]
+    ]
+  }
+}
